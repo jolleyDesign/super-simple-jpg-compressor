@@ -4,6 +4,8 @@ The most basic JPG compressor I could come up with, using pillow antialiasing. B
 ## Dependencies
 Python PIL (pillow) library, Python tkinter library (default on most environments), and of course Python3. Will not work with Python2.
 
+```pip install PIL```
+
 ## Usage
 Download or clone file to your local system. CD into the directory.
 
