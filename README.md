@@ -1,5 +1,5 @@
 # super-simple-jpg-compressor
-The most basic JPG compressor I could come up with, using pillow antialiasing.
+The most basic JPG compressor I could come up with, using pillow antialiasing. Built in file extension check to avoid errors on PNG or other filetype input.
 
 ## Dependencies
 Python PIL (pillow) library, Python tkinter library (default on most environments), and of course Python3. Will not work with Python2.
